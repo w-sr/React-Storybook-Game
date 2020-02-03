@@ -8,7 +8,7 @@ export default function About() {
         used toolchain.
       </h1>
       <h1 className="text-primary text-big">
-        Author: <a href="https://github.com/lirbaj">@lirbaj</a>
+        Author: <a href="https://github.com/shakacu">@shakacu</a>
       </h1>
     </div>
   );

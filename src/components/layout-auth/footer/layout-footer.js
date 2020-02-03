@@ -6,7 +6,7 @@ export default function LayoutFooter() {
   return (
     <Container>
       <span>
-        <a href="https://github.com/lirbaj">Github</a>
+        <a href="https://github.com/shakacu">Github</a>
       </span>
     </Container>
   );

@@ -13,7 +13,7 @@ Boilerplate project for learning React (& its main libraries commonly used) with
 
 ## DEMO
 
-The demo is available here: https://school-game-library.herokuapp.com
+The demo is available here: https://school-game-library.web.app/
 
 ### Tech
 
